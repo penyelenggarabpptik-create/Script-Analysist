@@ -1,0 +1,6 @@
+{
+  "name": "ScriptAnalyst",
+  "description": "Analisis naskah video pendek otomatis dengan rekomendasi dan contoh perbaikan siap pakai untuk peserta pelatihan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
